@@ -37,10 +37,10 @@ Apart from professional life I am big fan of spanish football, good crime book, 
 
 ---
 ### My projects
-Here is the list of own projects connecting with my skills. If you are interested of any of them, please click of the name - you will go to seperate repo and see its content
+This is the list of my own projects connecting with my skills. If you are interested of any of them, please click of the name - you will go to seperate repo and see its content:
 
-[project1]
-[project2]
+[SQL project](https://github.com/alicjasaw/sql-project)
+<br>[Automation Tests project](https://github.com/alicjasaw/automation-tests-project)
 
 ---
 ### My soft-skillset
