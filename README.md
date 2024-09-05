@@ -1,5 +1,5 @@
 # My Portfolio
-My name is Alicja, welcome to my GitHub space, I'd love to tell you about myself ;)
+My name is Alicja, and welcome again to my GitHub space, I'd love to tell you about myself ;)
 
 -----
 
