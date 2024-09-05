@@ -38,7 +38,7 @@ I've always dreamed of being part of the process that improves people's quality 
 
 ---
 ### My projects
-Ths is the list of my own projects. If you are interested of any of them, please click of the name - you will go to seperate repo:
+Ths is the list of my own projects. If you are interested in any of them, please click the name - you will go to seperate repo:
 
 [SQL project](https://github.com/alicjasaw/sql-project)
 <br>[Automation Tests project](https://github.com/alicjasaw/automation-tests-project)
