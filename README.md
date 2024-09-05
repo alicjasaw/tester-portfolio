@@ -25,7 +25,7 @@ I've always dreamed of being part of the process that improves people's quality 
 ### My hard-skillset
 * **mobile testing**: manual and automation (**UiAutomator and Espresso testing**) -> look at [Automation Tests project](https://github.com/alicjasaw/automation-tests-project);
 * **web testing**: manual and automation (**PlayWright** learning in progress) -> look at [Automation Tests project](https://github.com/alicjasaw/automation-tests-project);
-* **api testing**;
+* **API testing**;
 * **functional, regression, E2E and exploratory testing**;
 * database testing using **T-SQL** in **Microsoft SQL Server** -> look at [SQL project](https://github.com/alicjasaw/sql-project);
 * working with **Behavior-Driven Development (Gherkin syntax)**;
