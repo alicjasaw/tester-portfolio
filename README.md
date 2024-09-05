@@ -1,5 +1,5 @@
 # My Portfolio
-Welcome to my GitHub - portfolio space, I'd love to tell you about myself ;)
+Welcome to my GitHub - portfolio space, I would love to tell you more about myself ;)
 
 -----
 
